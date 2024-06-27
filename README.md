@@ -53,7 +53,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Urban and regional development <a name="urban"></a> 
 
-- 
+- National Spatial Plan 2050: https://riigiplaneering.ee/en/national-spatial-plan/national-spatial-plan-2050/national-spatial-plan-2050
 
 ### EU accession and cooperation <a name="eu-accession"></a> 
 
